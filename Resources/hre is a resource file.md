@@ -1,0 +1,1 @@
+hre is a resource file
